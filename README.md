@@ -13,12 +13,12 @@ I'm also fascinated by emerging technologies such as **Arduino**, **sensor tech*
 ### At Work:
 - **Languages & Frameworks:** JavaScript, TypeScript, HTML, CSS, SCSS, Next.js, React, Redux, Node.js, Express, Angular
 - **Databases & Cloud:** PostgreSQL, MongoDB, Supabase, AWS, Heroku
-- **Tools & Platforms:** GitHub, Jira, Vercel, Bootstrap, Materialize, Figma
+- **Tools & Platforms:** GitHub, Jira, Vercel, Bootstrap, Materialize, Figma, Tailwind CSS
 
 ### For Fun & Exploration:
 - **Data Science & AI:** R, Python, Jupyter Notebook, GraphQL
 - **Design & Creativity:** Adobe Aero, Photoshop, Illustrator, Figma
-- **Security & OS:** Kali Linux, Tailwind CSS
+- **Security & OS:** Kali Linux
 
 ## 🌱 Always Learning
 
